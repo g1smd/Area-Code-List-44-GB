@@ -1,0 +1,2531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Row ID="1">
+		<Region>Leeds</Region>
+		<AreaCode>113</AreaCode>
+	</Row>
+	<Row ID="2">
+		<Region>Sheffield</Region>
+		<AreaCode>114</AreaCode>
+	</Row>
+	<Row ID="3">
+		<Region>Nottingham</Region>
+		<AreaCode>115</AreaCode>
+	</Row>
+	<Row ID="4">
+		<Region>Leicester</Region>
+		<AreaCode>116</AreaCode>
+	</Row>
+	<Row ID="5">
+		<Region>Bristol</Region>
+		<AreaCode>117</AreaCode>
+	</Row>
+	<Row ID="6">
+		<Region>Reading</Region>
+		<AreaCode>118</AreaCode>
+	</Row>
+	<Row ID="7">
+		<Region>Clitheroe</Region>
+		<AreaCode>1200</AreaCode>
+	</Row>
+	<Row ID="8">
+		<Region>Bournemouth</Region>
+		<AreaCode>1202</AreaCode>
+	</Row>
+	<Row ID="9">
+		<Region>Bolton</Region>
+		<AreaCode>1204</AreaCode>
+	</Row>
+	<Row ID="10">
+		<Region>Boston</Region>
+		<AreaCode>1205</AreaCode>
+	</Row>
+	<Row ID="11">
+		<Region>Colchester</Region>
+		<AreaCode>1206</AreaCode>
+	</Row>
+	<Row ID="12">
+		<Region>Consett</Region>
+		<AreaCode>1207</AreaCode>
+	</Row>
+	<Row ID="13">
+		<Region>Bodmin</Region>
+		<AreaCode>1208</AreaCode>
+	</Row>
+	<Row ID="14">
+		<Region>Redruth</Region>
+		<AreaCode>1209</AreaCode>
+	</Row>
+	<Row ID="15">
+		<Region>Birmingham</Region>
+		<AreaCode>121</AreaCode>
+	</Row>
+	<Row ID="16">
+		<Region>Cambridge</Region>
+		<AreaCode>1223</AreaCode>
+	</Row>
+	<Row ID="17">
+		<Region>Aberdeen</Region>
+		<AreaCode>1224</AreaCode>
+	</Row>
+	<Row ID="18">
+		<Region>Bath</Region>
+		<AreaCode>1225</AreaCode>
+	</Row>
+	<Row ID="19">
+		<Region>Barnsley</Region>
+		<AreaCode>1226</AreaCode>
+	</Row>
+	<Row ID="20">
+		<Region>Canterbury</Region>
+		<AreaCode>1227</AreaCode>
+	</Row>
+	<Row ID="21">
+		<Region>Carlisle</Region>
+		<AreaCode>1228</AreaCode>
+	</Row>
+	<Row ID="22">
+		<Region>Barrow-in-Furness (2,4,5,6,8)</Region>
+		<AreaCode>1229</AreaCode>
+	</Row>
+	<Row ID="23">
+		<Region>Millom (3,7,9)</Region>
+		<AreaCode>1229</AreaCode>
+	</Row>
+	<Row ID="24">
+		<Region>Ashford (Kent)</Region>
+		<AreaCode>1233</AreaCode>
+	</Row>
+	<Row ID="25">
+		<Region>Bedford</Region>
+		<AreaCode>1234</AreaCode>
+	</Row>
+	<Row ID="26">
+		<Region>Abingdon</Region>
+		<AreaCode>1235</AreaCode>
+	</Row>
+	<Row ID="27">
+		<Region>Coatbridge</Region>
+		<AreaCode>1236</AreaCode>
+	</Row>
+	<Row ID="28">
+		<Region>Bideford</Region>
+		<AreaCode>1237</AreaCode>
+	</Row>
+	<Row ID="29">
+		<Region>Cardigan</Region>
+		<AreaCode>1239</AreaCode>
+	</Row>
+	<Row ID="30">
+		<Region>Arbroath</Region>
+		<AreaCode>1241</AreaCode>
+	</Row>
+	<Row ID="31">
+		<Region>Cheltenham</Region>
+		<AreaCode>1242</AreaCode>
+	</Row>
+	<Row ID="32">
+		<Region>Chichester</Region>
+		<AreaCode>1243</AreaCode>
+	</Row>
+	<Row ID="33">
+		<Region>Chester</Region>
+		<AreaCode>1244</AreaCode>
+	</Row>
+	<Row ID="34">
+		<Region>Chelmsford</Region>
+		<AreaCode>1245</AreaCode>
+	</Row>
+	<Row ID="35">
+		<Region>Chesterfield</Region>
+		<AreaCode>1246</AreaCode>
+	</Row>
+	<Row ID="36">
+		<Region>Bangor (Gwynedd)</Region>
+		<AreaCode>1248</AreaCode>
+	</Row>
+	<Row ID="37">
+		<Region>Chippenham</Region>
+		<AreaCode>1249</AreaCode>
+	</Row>
+	<Row ID="38">
+		<Region>Blairgowrie</Region>
+		<AreaCode>1250</AreaCode>
+	</Row>
+	<Row ID="39">
+		<Region>Aldershot</Region>
+		<AreaCode>1252</AreaCode>
+	</Row>
+	<Row ID="40">
+		<Region>Blackpool</Region>
+		<AreaCode>1253</AreaCode>
+	</Row>
+	<Row ID="41">
+		<Region>Blackburn</Region>
+		<AreaCode>1254</AreaCode>
+	</Row>
+	<Row ID="42">
+		<Region>Clacton-on-Sea</Region>
+		<AreaCode>1255</AreaCode>
+	</Row>
+	<Row ID="43">
+		<Region>Basingstoke</Region>
+		<AreaCode>1256</AreaCode>
+	</Row>
+	<Row ID="44">
+		<Region>Coppull</Region>
+		<AreaCode>1257</AreaCode>
+	</Row>
+	<Row ID="45">
+		<Region>Blandford</Region>
+		<AreaCode>1258</AreaCode>
+	</Row>
+	<Row ID="46">
+		<Region>Alloa</Region>
+		<AreaCode>1259</AreaCode>
+	</Row>
+	<Row ID="47">
+		<Region>Congleton</Region>
+		<AreaCode>1260</AreaCode>
+	</Row>
+	<Row ID="48">
+		<Region>Banff</Region>
+		<AreaCode>1261</AreaCode>
+	</Row>
+	<Row ID="49">
+		<Region>Bridlington</Region>
+		<AreaCode>1262</AreaCode>
+	</Row>
+	<Row ID="50">
+		<Region>Cromer</Region>
+		<AreaCode>1263</AreaCode>
+	</Row>
+	<Row ID="51">
+		<Region>Andover</Region>
+		<AreaCode>1264</AreaCode>
+	</Row>
+	<Row ID="52">
+		<Region>Carmarthen</Region>
+		<AreaCode>1267</AreaCode>
+	</Row>
+	<Row ID="53">
+		<Region>Basildon</Region>
+		<AreaCode>1268</AreaCode>
+	</Row>
+	<Row ID="54">
+		<Region>Ammanford</Region>
+		<AreaCode>1269</AreaCode>
+	</Row>
+	<Row ID="55">
+		<Region>Crewe</Region>
+		<AreaCode>1270</AreaCode>
+	</Row>
+	<Row ID="56">
+		<Region>Barnstaple</Region>
+		<AreaCode>1271</AreaCode>
+	</Row>
+	<Row ID="57">
+		<Region>Brighton</Region>
+		<AreaCode>1273</AreaCode>
+	</Row>
+	<Row ID="58">
+		<Region>Bradford</Region>
+		<AreaCode>1274</AreaCode>
+	</Row>
+	<Row ID="59">
+		<Region>Clevedon</Region>
+		<AreaCode>1275</AreaCode>
+	</Row>
+	<Row ID="60">
+		<Region>Camberley</Region>
+		<AreaCode>1276</AreaCode>
+	</Row>
+	<Row ID="61">
+		<Region>Brentwood</Region>
+		<AreaCode>1277</AreaCode>
+	</Row>
+	<Row ID="62">
+		<Region>Bridgwater</Region>
+		<AreaCode>1278</AreaCode>
+	</Row>
+	<Row ID="63">
+		<Region>Bishops Stortford</Region>
+		<AreaCode>1279</AreaCode>
+	</Row>
+	<Row ID="64">
+		<Region>Buckingham</Region>
+		<AreaCode>1280</AreaCode>
+	</Row>
+	<Row ID="65">
+		<Region>Burnley</Region>
+		<AreaCode>1282</AreaCode>
+	</Row>
+	<Row ID="66">
+		<Region>Burton-on-Trent</Region>
+		<AreaCode>1283</AreaCode>
+	</Row>
+	<Row ID="67">
+		<Region>Bury St Edmunds</Region>
+		<AreaCode>1284</AreaCode>
+	</Row>
+	<Row ID="68">
+		<Region>Cirencester</Region>
+		<AreaCode>1285</AreaCode>
+	</Row>
+	<Row ID="69">
+		<Region>Caernarfon</Region>
+		<AreaCode>1286</AreaCode>
+	</Row>
+	<Row ID="70">
+		<Region>Guisborough</Region>
+		<AreaCode>1287</AreaCode>
+	</Row>
+	<Row ID="71">
+		<Region>Bude</Region>
+		<AreaCode>1288</AreaCode>
+	</Row>
+	<Row ID="72">
+		<Region>Berwick-upon-Tweed</Region>
+		<AreaCode>1289</AreaCode>
+	</Row>
+	<Row ID="73">
+		<Region>Cumnock</Region>
+		<AreaCode>1290</AreaCode>
+	</Row>
+	<Row ID="74">
+		<Region>Chepstow</Region>
+		<AreaCode>1291</AreaCode>
+	</Row>
+	<Row ID="75">
+		<Region>Ayr</Region>
+		<AreaCode>1292</AreaCode>
+	</Row>
+	<Row ID="76">
+		<Region>Crawley</Region>
+		<AreaCode>1293</AreaCode>
+	</Row>
+	<Row ID="77">
+		<Region>Ardrossan</Region>
+		<AreaCode>1294</AreaCode>
+	</Row>
+	<Row ID="78">
+		<Region>Banbury</Region>
+		<AreaCode>1295</AreaCode>
+	</Row>
+	<Row ID="79">
+		<Region>Aylesbury</Region>
+		<AreaCode>1296</AreaCode>
+	</Row>
+	<Row ID="80">
+		<Region>Axminster</Region>
+		<AreaCode>1297</AreaCode>
+	</Row>
+	<Row ID="81">
+		<Region>Buxton</Region>
+		<AreaCode>1298</AreaCode>
+	</Row>
+	<Row ID="82">
+		<Region>Bewdley</Region>
+		<AreaCode>1299</AreaCode>
+	</Row>
+	<Row ID="83">
+		<Region>Cerne Abbas</Region>
+		<AreaCode>1300</AreaCode>
+	</Row>
+	<Row ID="84">
+		<Region>Arrochar</Region>
+		<AreaCode>1301</AreaCode>
+	</Row>
+	<Row ID="85">
+		<Region>Doncaster</Region>
+		<AreaCode>1302</AreaCode>
+	</Row>
+	<Row ID="86">
+		<Region>Folkestone</Region>
+		<AreaCode>1303</AreaCode>
+	</Row>
+	<Row ID="87">
+		<Region>Dover</Region>
+		<AreaCode>1304</AreaCode>
+	</Row>
+	<Row ID="88">
+		<Region>Dorchester</Region>
+		<AreaCode>1305</AreaCode>
+	</Row>
+	<Row ID="89">
+		<Region>Dorking</Region>
+		<AreaCode>1306</AreaCode>
+	</Row>
+	<Row ID="90">
+		<Region>Forfar</Region>
+		<AreaCode>1307</AreaCode>
+	</Row>
+	<Row ID="91">
+		<Region>Bridport</Region>
+		<AreaCode>1308</AreaCode>
+	</Row>
+	<Row ID="92">
+		<Region>Forres</Region>
+		<AreaCode>1309</AreaCode>
+	</Row>
+	<Row ID="93">
+		<Region>Edinburgh</Region>
+		<AreaCode>131</AreaCode>
+	</Row>
+	<Row ID="94">
+		<Region>Fort Augustus</Region>
+		<AreaCode>1320</AreaCode>
+	</Row>
+	<Row ID="95">
+		<Region>Dartford</Region>
+		<AreaCode>1322</AreaCode>
+	</Row>
+	<Row ID="96">
+		<Region>Eastbourne</Region>
+		<AreaCode>1323</AreaCode>
+	</Row>
+	<Row ID="97">
+		<Region>Falkirk</Region>
+		<AreaCode>1324</AreaCode>
+	</Row>
+	<Row ID="98">
+		<Region>Darlington</Region>
+		<AreaCode>1325</AreaCode>
+	</Row>
+	<Row ID="99">
+		<Region>Falmouth</Region>
+		<AreaCode>1326</AreaCode>
+	</Row>
+	<Row ID="100">
+		<Region>Daventry</Region>
+		<AreaCode>1327</AreaCode>
+	</Row>
+	<Row ID="101">
+		<Region>Fakenham</Region>
+		<AreaCode>1328</AreaCode>
+	</Row>
+	<Row ID="102">
+		<Region>Fareham</Region>
+		<AreaCode>1329</AreaCode>
+	</Row>
+	<Row ID="103">
+		<Region>Banchory</Region>
+		<AreaCode>1330</AreaCode>
+	</Row>
+	<Row ID="104">
+		<Region>Derby</Region>
+		<AreaCode>1332</AreaCode>
+	</Row>
+	<Row ID="105">
+		<Region>Peat Inn (Leven, Fife)</Region>
+		<AreaCode>1333</AreaCode>
+	</Row>
+	<Row ID="106">
+		<Region>St Andrews</Region>
+		<AreaCode>1334</AreaCode>
+	</Row>
+	<Row ID="107">
+		<Region>Ashbourne</Region>
+		<AreaCode>1335</AreaCode>
+	</Row>
+	<Row ID="108">
+		<Region>Ladybank</Region>
+		<AreaCode>1337</AreaCode>
+	</Row>
+	<Row ID="109">
+		<Region>Aboyne (2,3,5,8)</Region>
+		<AreaCode>1339</AreaCode>
+	</Row>
+	<Row ID="110">
+		<Region>Ballater (4,6,7,9)</Region>
+		<AreaCode>1339</AreaCode>
+	</Row>
+	<Row ID="111">
+		<Region>Craigellachie (Aberlour)</Region>
+		<AreaCode>1340</AreaCode>
+	</Row>
+	<Row ID="112">
+		<Region>Barmouth</Region>
+		<AreaCode>1341</AreaCode>
+	</Row>
+	<Row ID="113">
+		<Region>East Grinstead</Region>
+		<AreaCode>1342</AreaCode>
+	</Row>
+	<Row ID="114">
+		<Region>Elgin</Region>
+		<AreaCode>1343</AreaCode>
+	</Row>
+	<Row ID="115">
+		<Region>Bracknell</Region>
+		<AreaCode>1344</AreaCode>
+	</Row>
+	<Row ID="116">
+		<Region>Fraserburgh</Region>
+		<AreaCode>1346</AreaCode>
+	</Row>
+	<Row ID="117">
+		<Region>Easingwold</Region>
+		<AreaCode>1347</AreaCode>
+	</Row>
+	<Row ID="118">
+		<Region>Fishguard</Region>
+		<AreaCode>1348</AreaCode>
+	</Row>
+	<Row ID="119">
+		<Region>Dingwall</Region>
+		<AreaCode>1349</AreaCode>
+	</Row>
+	<Row ID="120">
+		<Region>Dunkeld</Region>
+		<AreaCode>1350</AreaCode>
+	</Row>
+	<Row ID="121">
+		<Region>Mold</Region>
+		<AreaCode>1352</AreaCode>
+	</Row>
+	<Row ID="122">
+		<Region>Ely</Region>
+		<AreaCode>1353</AreaCode>
+	</Row>
+	<Row ID="123">
+		<Region>Chatteris</Region>
+		<AreaCode>1354</AreaCode>
+	</Row>
+	<Row ID="124">
+		<Region>East Kilbride</Region>
+		<AreaCode>1355</AreaCode>
+	</Row>
+	<Row ID="125">
+		<Region>Brechin</Region>
+		<AreaCode>1356</AreaCode>
+	</Row>
+	<Row ID="126">
+		<Region>Strathaven</Region>
+		<AreaCode>1357</AreaCode>
+	</Row>
+	<Row ID="127">
+		<Region>Ellon</Region>
+		<AreaCode>1358</AreaCode>
+	</Row>
+	<Row ID="128">
+		<Region>Pakenham</Region>
+		<AreaCode>1359</AreaCode>
+	</Row>
+	<Row ID="129">
+		<Region>Killearn</Region>
+		<AreaCode>1360</AreaCode>
+	</Row>
+	<Row ID="130">
+		<Region>Duns</Region>
+		<AreaCode>1361</AreaCode>
+	</Row>
+	<Row ID="131">
+		<Region>Dereham</Region>
+		<AreaCode>1362</AreaCode>
+	</Row>
+	<Row ID="132">
+		<Region>Crediton</Region>
+		<AreaCode>1363</AreaCode>
+	</Row>
+	<Row ID="133">
+		<Region>Ashburton</Region>
+		<AreaCode>1364</AreaCode>
+	</Row>
+	<Row ID="134">
+		<Region>Downham Market</Region>
+		<AreaCode>1366</AreaCode>
+	</Row>
+	<Row ID="135">
+		<Region>Faringdon</Region>
+		<AreaCode>1367</AreaCode>
+	</Row>
+	<Row ID="136">
+		<Region>Dunbar</Region>
+		<AreaCode>1368</AreaCode>
+	</Row>
+	<Row ID="137">
+		<Region>Dunoon</Region>
+		<AreaCode>1369</AreaCode>
+	</Row>
+	<Row ID="138">
+		<Region>Great Dunmow</Region>
+		<AreaCode>1371</AreaCode>
+	</Row>
+	<Row ID="139">
+		<Region>Esher</Region>
+		<AreaCode>1372</AreaCode>
+	</Row>
+	<Row ID="140">
+		<Region>Frome</Region>
+		<AreaCode>1373</AreaCode>
+	</Row>
+	<Row ID="141">
+		<Region>Grays Thurrock</Region>
+		<AreaCode>1375</AreaCode>
+	</Row>
+	<Row ID="142">
+		<Region>Braintree</Region>
+		<AreaCode>1376</AreaCode>
+	</Row>
+	<Row ID="143">
+		<Region>Driffield</Region>
+		<AreaCode>1377</AreaCode>
+	</Row>
+	<Row ID="144">
+		<Region>Diss</Region>
+		<AreaCode>1379</AreaCode>
+	</Row>
+	<Row ID="145">
+		<Region>Devizes</Region>
+		<AreaCode>1380</AreaCode>
+	</Row>
+	<Row ID="146">
+		<Region>Fortrose</Region>
+		<AreaCode>1381</AreaCode>
+	</Row>
+	<Row ID="147">
+		<Region>Dundee</Region>
+		<AreaCode>1382</AreaCode>
+	</Row>
+	<Row ID="148">
+		<Region>Dunfermline</Region>
+		<AreaCode>1383</AreaCode>
+	</Row>
+	<Row ID="149">
+		<Region>Dudley</Region>
+		<AreaCode>1384</AreaCode>
+	</Row>
+	<Row ID="150">
+		<Region>Evesham</Region>
+		<AreaCode>1386</AreaCode>
+	</Row>
+	<Row ID="151">
+		<Region>Dumfries (2,4,5,6,7,8,9)</Region>
+		<AreaCode>1387</AreaCode>
+	</Row>
+	<Row ID="152">
+		<Region>Langholm</Region>
+		<AreaCode>13873</AreaCode>
+	</Row>
+	<Row ID="153">
+		<Region>Bishop Auckland (3,4,6,7,8,9)</Region>
+		<AreaCode>1388</AreaCode>
+	</Row>
+	<Row ID="154">
+		<Region>Stanhope (Eastgate) (2,5)</Region>
+		<AreaCode>1388</AreaCode>
+	</Row>
+	<Row ID="155">
+		<Region>Dumbarton</Region>
+		<AreaCode>1389</AreaCode>
+	</Row>
+	<Row ID="156">
+		<Region>Exeter</Region>
+		<AreaCode>1392</AreaCode>
+	</Row>
+	<Row ID="157">
+		<Region>Felixstowe</Region>
+		<AreaCode>1394</AreaCode>
+	</Row>
+	<Row ID="158">
+		<Region>Budleigh Salterton</Region>
+		<AreaCode>1395</AreaCode>
+	</Row>
+	<Row ID="159">
+		<Region>Fort William</Region>
+		<AreaCode>1397</AreaCode>
+	</Row>
+	<Row ID="160">
+		<Region>Dulverton</Region>
+		<AreaCode>1398</AreaCode>
+	</Row>
+	<Row ID="161">
+		<Region>Honington</Region>
+		<AreaCode>1400</AreaCode>
+	</Row>
+	<Row ID="162">
+		<Region>Horsham</Region>
+		<AreaCode>1403</AreaCode>
+	</Row>
+	<Row ID="163">
+		<Region>Honiton</Region>
+		<AreaCode>1404</AreaCode>
+	</Row>
+	<Row ID="164">
+		<Region>Goole</Region>
+		<AreaCode>1405</AreaCode>
+	</Row>
+	<Row ID="165">
+		<Region>Holbeach</Region>
+		<AreaCode>1406</AreaCode>
+	</Row>
+	<Row ID="166">
+		<Region>Holyhead</Region>
+		<AreaCode>1407</AreaCode>
+	</Row>
+	<Row ID="167">
+		<Region>Golspie</Region>
+		<AreaCode>1408</AreaCode>
+	</Row>
+	<Row ID="168">
+		<Region>Holsworthy</Region>
+		<AreaCode>1409</AreaCode>
+	</Row>
+	<Row ID="169">
+		<Region>Glasgow</Region>
+		<AreaCode>141</AreaCode>
+	</Row>
+	<Row ID="170">
+		<Region>Alton</Region>
+		<AreaCode>1420</AreaCode>
+	</Row>
+	<Row ID="171">
+		<Region>Halifax</Region>
+		<AreaCode>1422</AreaCode>
+	</Row>
+	<Row ID="172">
+		<Region>Boroughbridge (3,4,9)</Region>
+		<AreaCode>1423</AreaCode>
+	</Row>
+	<Row ID="173">
+		<Region>Harrogate (2,5,6,7,8)</Region>
+		<AreaCode>1423</AreaCode>
+	</Row>
+	<Row ID="174">
+		<Region>Hastings</Region>
+		<AreaCode>1424</AreaCode>
+	</Row>
+	<Row ID="175">
+		<Region>Ringwood</Region>
+		<AreaCode>1425</AreaCode>
+	</Row>
+	<Row ID="176">
+		<Region>Gainsborough</Region>
+		<AreaCode>1427</AreaCode>
+	</Row>
+	<Row ID="177">
+		<Region>Haslemere</Region>
+		<AreaCode>1428</AreaCode>
+	</Row>
+	<Row ID="178">
+		<Region>Hartlepool</Region>
+		<AreaCode>1429</AreaCode>
+	</Row>
+	<Row ID="179">
+		<Region>Market Weighton (6,7,8,9)</Region>
+		<AreaCode>1430</AreaCode>
+	</Row>
+	<Row ID="180">
+		<Region>North Cave (2,3,4,5)</Region>
+		<AreaCode>1430</AreaCode>
+	</Row>
+	<Row ID="181">
+		<Region>Helmsdale</Region>
+		<AreaCode>1431</AreaCode>
+	</Row>
+	<Row ID="182">
+		<Region>Hereford</Region>
+		<AreaCode>1432</AreaCode>
+	</Row>
+	<Row ID="183">
+		<Region>Hathersage</Region>
+		<AreaCode>1433</AreaCode>
+	</Row>
+	<Row ID="184">
+		<Region>Bellingham (2,4,9)</Region>
+		<AreaCode>1434</AreaCode>
+	</Row>
+	<Row ID="185">
+		<Region>Haltwhistle (3,5)</Region>
+		<AreaCode>1434</AreaCode>
+	</Row>
+	<Row ID="186">
+		<Region>Hexham (6,7,8)</Region>
+		<AreaCode>1434</AreaCode>
+	</Row>
+	<Row ID="187">
+		<Region>Heathfield</Region>
+		<AreaCode>1435</AreaCode>
+	</Row>
+	<Row ID="188">
+		<Region>Helensburgh</Region>
+		<AreaCode>1436</AreaCode>
+	</Row>
+	<Row ID="189">
+		<Region>Clynderwen (Clunderwen) (2,3,4,5)</Region>
+		<AreaCode>1437</AreaCode>
+	</Row>
+	<Row ID="190">
+		<Region>Haverfordwest (6,7,8,9)</Region>
+		<AreaCode>1437</AreaCode>
+	</Row>
+	<Row ID="191">
+		<Region>Stevenage</Region>
+		<AreaCode>1438</AreaCode>
+	</Row>
+	<Row ID="192">
+		<Region>Helmsley</Region>
+		<AreaCode>1439</AreaCode>
+	</Row>
+	<Row ID="193">
+		<Region>Haverhill</Region>
+		<AreaCode>1440</AreaCode>
+	</Row>
+	<Row ID="194">
+		<Region>Hemel Hempstead</Region>
+		<AreaCode>1442</AreaCode>
+	</Row>
+	<Row ID="195">
+		<Region>Pontypridd</Region>
+		<AreaCode>1443</AreaCode>
+	</Row>
+	<Row ID="196">
+		<Region>Haywards Heath</Region>
+		<AreaCode>1444</AreaCode>
+	</Row>
+	<Row ID="197">
+		<Region>Gairloch</Region>
+		<AreaCode>1445</AreaCode>
+	</Row>
+	<Row ID="198">
+		<Region>Barry</Region>
+		<AreaCode>1446</AreaCode>
+	</Row>
+	<Row ID="199">
+		<Region>Stowmarket</Region>
+		<AreaCode>1449</AreaCode>
+	</Row>
+	<Row ID="200">
+		<Region>Hawick</Region>
+		<AreaCode>1450</AreaCode>
+	</Row>
+	<Row ID="201">
+		<Region>Stow-on-the-Wold</Region>
+		<AreaCode>1451</AreaCode>
+	</Row>
+	<Row ID="202">
+		<Region>Gloucester</Region>
+		<AreaCode>1452</AreaCode>
+	</Row>
+	<Row ID="203">
+		<Region>Dursley</Region>
+		<AreaCode>1453</AreaCode>
+	</Row>
+	<Row ID="204">
+		<Region>Chipping Sodbury</Region>
+		<AreaCode>1454</AreaCode>
+	</Row>
+	<Row ID="205">
+		<Region>Hinckley</Region>
+		<AreaCode>1455</AreaCode>
+	</Row>
+	<Row ID="206">
+		<Region>Glenurquhart</Region>
+		<AreaCode>1456</AreaCode>
+	</Row>
+	<Row ID="207">
+		<Region>Glossop</Region>
+		<AreaCode>1457</AreaCode>
+	</Row>
+	<Row ID="208">
+		<Region>Glastonbury</Region>
+		<AreaCode>1458</AreaCode>
+	</Row>
+	<Row ID="209">
+		<Region>Chard</Region>
+		<AreaCode>1460</AreaCode>
+	</Row>
+	<Row ID="210">
+		<Region>Gretna</Region>
+		<AreaCode>1461</AreaCode>
+	</Row>
+	<Row ID="211">
+		<Region>Hitchin</Region>
+		<AreaCode>1462</AreaCode>
+	</Row>
+	<Row ID="212">
+		<Region>Inverness</Region>
+		<AreaCode>1463</AreaCode>
+	</Row>
+	<Row ID="213">
+		<Region>Insch</Region>
+		<AreaCode>1464</AreaCode>
+	</Row>
+	<Row ID="214">
+		<Region>Girvan</Region>
+		<AreaCode>1465</AreaCode>
+	</Row>
+	<Row ID="215">
+		<Region>Huntly</Region>
+		<AreaCode>1466</AreaCode>
+	</Row>
+	<Row ID="216">
+		<Region>Inverurie</Region>
+		<AreaCode>1467</AreaCode>
+	</Row>
+	<Row ID="217">
+		<Region>Killingholme</Region>
+		<AreaCode>1469</AreaCode>
+	</Row>
+	<Row ID="218">
+		<Region>Isle of Skye – Edinbane</Region>
+		<AreaCode>1470</AreaCode>
+	</Row>
+	<Row ID="219">
+		<Region>Isle of Skye – Broadford</Region>
+		<AreaCode>1471</AreaCode>
+	</Row>
+	<Row ID="220">
+		<Region>Grimsby</Region>
+		<AreaCode>1472</AreaCode>
+	</Row>
+	<Row ID="221">
+		<Region>Ipswich</Region>
+		<AreaCode>1473</AreaCode>
+	</Row>
+	<Row ID="222">
+		<Region>Gravesend</Region>
+		<AreaCode>1474</AreaCode>
+	</Row>
+	<Row ID="223">
+		<Region>Greenock</Region>
+		<AreaCode>1475</AreaCode>
+	</Row>
+	<Row ID="224">
+		<Region>Grantham</Region>
+		<AreaCode>1476</AreaCode>
+	</Row>
+	<Row ID="225">
+		<Region>Holmes Chapel</Region>
+		<AreaCode>1477</AreaCode>
+	</Row>
+	<Row ID="226">
+		<Region>Isle of Skye – Portree</Region>
+		<AreaCode>1478</AreaCode>
+	</Row>
+	<Row ID="227">
+		<Region>Grantown-on-Spey</Region>
+		<AreaCode>1479</AreaCode>
+	</Row>
+	<Row ID="228">
+		<Region>Huntingdon</Region>
+		<AreaCode>1480</AreaCode>
+	</Row>
+	<Row ID="229">
+		<Region>Guernsey</Region>
+		<AreaCode>1481</AreaCode>
+	</Row>
+	<Row ID="230">
+		<Region>Kingston-upon-Hull</Region>
+		<AreaCode>1482</AreaCode>
+	</Row>
+	<Row ID="231">
+		<Region>Guildford</Region>
+		<AreaCode>1483</AreaCode>
+	</Row>
+	<Row ID="232">
+		<Region>Huddersfield</Region>
+		<AreaCode>1484</AreaCode>
+	</Row>
+	<Row ID="233">
+		<Region>Hunstanton</Region>
+		<AreaCode>1485</AreaCode>
+	</Row>
+	<Row ID="234">
+		<Region>Warboys</Region>
+		<AreaCode>1487</AreaCode>
+	</Row>
+	<Row ID="235">
+		<Region>Hungerford</Region>
+		<AreaCode>1488</AreaCode>
+	</Row>
+	<Row ID="236">
+		<Region>Bishops Waltham</Region>
+		<AreaCode>1489</AreaCode>
+	</Row>
+	<Row ID="237">
+		<Region>Corwen</Region>
+		<AreaCode>1490</AreaCode>
+	</Row>
+	<Row ID="238">
+		<Region>Henley-on-Thames</Region>
+		<AreaCode>1491</AreaCode>
+	</Row>
+	<Row ID="239">
+		<Region>Colwyn Bay</Region>
+		<AreaCode>1492</AreaCode>
+	</Row>
+	<Row ID="240">
+		<Region>Great Yarmouth</Region>
+		<AreaCode>1493</AreaCode>
+	</Row>
+	<Row ID="241">
+		<Region>High Wycombe</Region>
+		<AreaCode>1494</AreaCode>
+	</Row>
+	<Row ID="242">
+		<Region>Pontypool</Region>
+		<AreaCode>1495</AreaCode>
+	</Row>
+	<Row ID="243">
+		<Region>Port Ellen</Region>
+		<AreaCode>1496</AreaCode>
+	</Row>
+	<Row ID="244">
+		<Region>Hay-on-Wye</Region>
+		<AreaCode>1497</AreaCode>
+	</Row>
+	<Row ID="245">
+		<Region>Inveraray</Region>
+		<AreaCode>1499</AreaCode>
+	</Row>
+	<Row ID="246">
+		<Region>Harthill</Region>
+		<AreaCode>1501</AreaCode>
+	</Row>
+	<Row ID="247">
+		<Region>Lowestoft</Region>
+		<AreaCode>1502</AreaCode>
+	</Row>
+	<Row ID="248">
+		<Region>Looe</Region>
+		<AreaCode>1503</AreaCode>
+	</Row>
+	<Row ID="249">
+		<Region>Johnstone</Region>
+		<AreaCode>1505</AreaCode>
+	</Row>
+	<Row ID="250">
+		<Region>Bathgate</Region>
+		<AreaCode>1506</AreaCode>
+	</Row>
+	<Row ID="251">
+		<Region>Alford (Lincs) (4,8,9)</Region>
+		<AreaCode>1507</AreaCode>
+	</Row>
+	<Row ID="252">
+		<Region>Louth (3,6,7)</Region>
+		<AreaCode>1507</AreaCode>
+	</Row>
+	<Row ID="253">
+		<Region>Spilsby (Horncastle) (2,5)</Region>
+		<AreaCode>1507</AreaCode>
+	</Row>
+	<Row ID="254">
+		<Region>Brooke</Region>
+		<AreaCode>1508</AreaCode>
+	</Row>
+	<Row ID="255">
+		<Region>Loughborough</Region>
+		<AreaCode>1509</AreaCode>
+	</Row>
+	<Row ID="256">
+		<Region>Liverpool</Region>
+		<AreaCode>151</AreaCode>
+	</Row>
+	<Row ID="257">
+		<Region>Lochcarron</Region>
+		<AreaCode>1520</AreaCode>
+	</Row>
+	<Row ID="258">
+		<Region>Lincoln</Region>
+		<AreaCode>1522</AreaCode>
+	</Row>
+	<Row ID="259">
+		<Region>Lancaster (3,4,5,6,7,8,9)</Region>
+		<AreaCode>1524</AreaCode>
+	</Row>
+	<Row ID="260">
+		<Region>Hornby</Region>
+		<AreaCode>15242</AreaCode>
+	</Row>
+	<Row ID="261">
+		<Region>Leighton Buzzard</Region>
+		<AreaCode>1525</AreaCode>
+	</Row>
+	<Row ID="262">
+		<Region>Martin</Region>
+		<AreaCode>1526</AreaCode>
+	</Row>
+	<Row ID="263">
+		<Region>Redditch</Region>
+		<AreaCode>1527</AreaCode>
+	</Row>
+	<Row ID="264">
+		<Region>Laggan</Region>
+		<AreaCode>1528</AreaCode>
+	</Row>
+	<Row ID="265">
+		<Region>Sleaford</Region>
+		<AreaCode>1529</AreaCode>
+	</Row>
+	<Row ID="266">
+		<Region>Coalville</Region>
+		<AreaCode>1530</AreaCode>
+	</Row>
+	<Row ID="267">
+		<Region>Ledbury</Region>
+		<AreaCode>1531</AreaCode>
+	</Row>
+	<Row ID="268">
+		<Region>Jersey</Region>
+		<AreaCode>1534</AreaCode>
+	</Row>
+	<Row ID="269">
+		<Region>Keighley</Region>
+		<AreaCode>1535</AreaCode>
+	</Row>
+	<Row ID="270">
+		<Region>Kettering</Region>
+		<AreaCode>1536</AreaCode>
+	</Row>
+	<Row ID="271">
+		<Region>Ipstones</Region>
+		<AreaCode>1538</AreaCode>
+	</Row>
+	<Row ID="272">
+		<Region>Kendal (2,3,7,8,9)</Region>
+		<AreaCode>1539</AreaCode>
+	</Row>
+	<Row ID="273">
+		<Region>Hawkshead</Region>
+		<AreaCode>15394</AreaCode>
+	</Row>
+	<Row ID="274">
+		<Region>Grange-over-Sands</Region>
+		<AreaCode>15395</AreaCode>
+	</Row>
+	<Row ID="275">
+		<Region>Sedbergh</Region>
+		<AreaCode>15396</AreaCode>
+	</Row>
+	<Row ID="276">
+		<Region>Kingussie</Region>
+		<AreaCode>1540</AreaCode>
+	</Row>
+	<Row ID="277">
+		<Region>Keith</Region>
+		<AreaCode>1542</AreaCode>
+	</Row>
+	<Row ID="278">
+		<Region>Cannock</Region>
+		<AreaCode>1543</AreaCode>
+	</Row>
+	<Row ID="279">
+		<Region>Kington</Region>
+		<AreaCode>1544</AreaCode>
+	</Row>
+	<Row ID="280">
+		<Region>Llanarth</Region>
+		<AreaCode>1545</AreaCode>
+	</Row>
+	<Row ID="281">
+		<Region>Lochgilphead</Region>
+		<AreaCode>1546</AreaCode>
+	</Row>
+	<Row ID="282">
+		<Region>Knighton</Region>
+		<AreaCode>1547</AreaCode>
+	</Row>
+	<Row ID="283">
+		<Region>Kingsbridge</Region>
+		<AreaCode>1548</AreaCode>
+	</Row>
+	<Row ID="284">
+		<Region>Lairg</Region>
+		<AreaCode>1549</AreaCode>
+	</Row>
+	<Row ID="285">
+		<Region>Llandovery</Region>
+		<AreaCode>1550</AreaCode>
+	</Row>
+	<Row ID="286">
+		<Region>Kings Lynn</Region>
+		<AreaCode>1553</AreaCode>
+	</Row>
+	<Row ID="287">
+		<Region>Llanelli</Region>
+		<AreaCode>1554</AreaCode>
+	</Row>
+	<Row ID="288">
+		<Region>Lanark</Region>
+		<AreaCode>1555</AreaCode>
+	</Row>
+	<Row ID="289">
+		<Region>Castle Douglas</Region>
+		<AreaCode>1556</AreaCode>
+	</Row>
+	<Row ID="290">
+		<Region>Kirkcudbright</Region>
+		<AreaCode>1557</AreaCode>
+	</Row>
+	<Row ID="291">
+		<Region>Llandeilo</Region>
+		<AreaCode>1558</AreaCode>
+	</Row>
+	<Row ID="292">
+		<Region>Llandysul</Region>
+		<AreaCode>1559</AreaCode>
+	</Row>
+	<Row ID="293">
+		<Region>Moscow</Region>
+		<AreaCode>1560</AreaCode>
+	</Row>
+	<Row ID="294">
+		<Region>Laurencekirk</Region>
+		<AreaCode>1561</AreaCode>
+	</Row>
+	<Row ID="295">
+		<Region>Kidderminster</Region>
+		<AreaCode>1562</AreaCode>
+	</Row>
+	<Row ID="296">
+		<Region>Kilmarnock</Region>
+		<AreaCode>1563</AreaCode>
+	</Row>
+	<Row ID="297">
+		<Region>Lapworth</Region>
+		<AreaCode>1564</AreaCode>
+	</Row>
+	<Row ID="298">
+		<Region>Knutsford</Region>
+		<AreaCode>1565</AreaCode>
+	</Row>
+	<Row ID="299">
+		<Region>Launceston</Region>
+		<AreaCode>1566</AreaCode>
+	</Row>
+	<Row ID="300">
+		<Region>Killin</Region>
+		<AreaCode>1567</AreaCode>
+	</Row>
+	<Row ID="301">
+		<Region>Leominster</Region>
+		<AreaCode>1568</AreaCode>
+	</Row>
+	<Row ID="302">
+		<Region>Stonehaven</Region>
+		<AreaCode>1569</AreaCode>
+	</Row>
+	<Row ID="303">
+		<Region>Lampeter</Region>
+		<AreaCode>1570</AreaCode>
+	</Row>
+	<Row ID="304">
+		<Region>Lochinver</Region>
+		<AreaCode>1571</AreaCode>
+	</Row>
+	<Row ID="305">
+		<Region>Oakham</Region>
+		<AreaCode>1572</AreaCode>
+	</Row>
+	<Row ID="306">
+		<Region>Kelso</Region>
+		<AreaCode>1573</AreaCode>
+	</Row>
+	<Row ID="307">
+		<Region>Kirriemuir</Region>
+		<AreaCode>1575</AreaCode>
+	</Row>
+	<Row ID="308">
+		<Region>Lockerbie</Region>
+		<AreaCode>1576</AreaCode>
+	</Row>
+	<Row ID="309">
+		<Region>Kinross</Region>
+		<AreaCode>1577</AreaCode>
+	</Row>
+	<Row ID="310">
+		<Region>Lauder</Region>
+		<AreaCode>1578</AreaCode>
+	</Row>
+	<Row ID="311">
+		<Region>Liskeard</Region>
+		<AreaCode>1579</AreaCode>
+	</Row>
+	<Row ID="312">
+		<Region>Cranbrook</Region>
+		<AreaCode>1580</AreaCode>
+	</Row>
+	<Row ID="313">
+		<Region>New Luce</Region>
+		<AreaCode>1581</AreaCode>
+	</Row>
+	<Row ID="314">
+		<Region>Luton</Region>
+		<AreaCode>1582</AreaCode>
+	</Row>
+	<Row ID="315">
+		<Region>Carradale</Region>
+		<AreaCode>1583</AreaCode>
+	</Row>
+	<Row ID="316">
+		<Region>Ludlow</Region>
+		<AreaCode>1584</AreaCode>
+	</Row>
+	<Row ID="317">
+		<Region>Campbeltown</Region>
+		<AreaCode>1586</AreaCode>
+	</Row>
+	<Row ID="318">
+		<Region>Bishops Castle</Region>
+		<AreaCode>1588</AreaCode>
+	</Row>
+	<Row ID="319">
+		<Region>Lymington</Region>
+		<AreaCode>1590</AreaCode>
+	</Row>
+	<Row ID="320">
+		<Region>Llanwrtyd Wells</Region>
+		<AreaCode>1591</AreaCode>
+	</Row>
+	<Row ID="321">
+		<Region>Kirkcaldy</Region>
+		<AreaCode>1592</AreaCode>
+	</Row>
+	<Row ID="322">
+		<Region>Lybster</Region>
+		<AreaCode>1593</AreaCode>
+	</Row>
+	<Row ID="323">
+		<Region>Lydney</Region>
+		<AreaCode>1594</AreaCode>
+	</Row>
+	<Row ID="324">
+		<Region>Lerwick (2,3,4,5,6,8,9)</Region>
+		<AreaCode>1595</AreaCode>
+	</Row>
+	<Row ID="325">
+		<Region>Foula (75)</Region>
+		<AreaCode>1595</AreaCode>
+	</Row>
+	<Row ID="326">
+		<Region>Fair Isle (76)</Region>
+		<AreaCode>1595</AreaCode>
+	</Row>
+	<Row ID="327">
+		<Region>Llandrindod Wells</Region>
+		<AreaCode>1597</AreaCode>
+	</Row>
+	<Row ID="328">
+		<Region>Lynton</Region>
+		<AreaCode>1598</AreaCode>
+	</Row>
+	<Row ID="329">
+		<Region>Kyle</Region>
+		<AreaCode>1599</AreaCode>
+	</Row>
+	<Row ID="330">
+		<Region>Monmouth</Region>
+		<AreaCode>1600</AreaCode>
+	</Row>
+	<Row ID="331">
+		<Region>Norwich</Region>
+		<AreaCode>1603</AreaCode>
+	</Row>
+	<Row ID="332">
+		<Region>Northampton</Region>
+		<AreaCode>1604</AreaCode>
+	</Row>
+	<Row ID="333">
+		<Region>Northwich</Region>
+		<AreaCode>1606</AreaCode>
+	</Row>
+	<Row ID="334">
+		<Region>Chipping Norton</Region>
+		<AreaCode>1608</AreaCode>
+	</Row>
+	<Row ID="335">
+		<Region>Northallerton</Region>
+		<AreaCode>1609</AreaCode>
+	</Row>
+	<Row ID="336">
+		<Region>Manchester</Region>
+		<AreaCode>161</AreaCode>
+	</Row>
+	<Row ID="337">
+		<Region>North Berwick</Region>
+		<AreaCode>1620</AreaCode>
+	</Row>
+	<Row ID="338">
+		<Region>Maldon</Region>
+		<AreaCode>1621</AreaCode>
+	</Row>
+	<Row ID="339">
+		<Region>Maidstone</Region>
+		<AreaCode>1622</AreaCode>
+	</Row>
+	<Row ID="340">
+		<Region>Mansfield</Region>
+		<AreaCode>1623</AreaCode>
+	</Row>
+	<Row ID="341">
+		<Region>Isle of Man</Region>
+		<AreaCode>1624</AreaCode>
+	</Row>
+	<Row ID="342">
+		<Region>Macclesfield</Region>
+		<AreaCode>1625</AreaCode>
+	</Row>
+	<Row ID="343">
+		<Region>Newton Abbot</Region>
+		<AreaCode>1626</AreaCode>
+	</Row>
+	<Row ID="344">
+		<Region>Maidenhead</Region>
+		<AreaCode>1628</AreaCode>
+	</Row>
+	<Row ID="345">
+		<Region>Matlock</Region>
+		<AreaCode>1629</AreaCode>
+	</Row>
+	<Row ID="346">
+		<Region>Market Drayton</Region>
+		<AreaCode>1630</AreaCode>
+	</Row>
+	<Row ID="347">
+		<Region>Oban</Region>
+		<AreaCode>1631</AreaCode>
+	</Row>
+	<Row ID="348">
+		<Region>Newport</Region>
+		<AreaCode>1633</AreaCode>
+	</Row>
+	<Row ID="349">
+		<Region>Medway</Region>
+		<AreaCode>1634</AreaCode>
+	</Row>
+	<Row ID="350">
+		<Region>Newbury</Region>
+		<AreaCode>1635</AreaCode>
+	</Row>
+	<Row ID="351">
+		<Region>Newark-on-Trent</Region>
+		<AreaCode>1636</AreaCode>
+	</Row>
+	<Row ID="352">
+		<Region>Newquay</Region>
+		<AreaCode>1637</AreaCode>
+	</Row>
+	<Row ID="353">
+		<Region>Newmarket</Region>
+		<AreaCode>1638</AreaCode>
+	</Row>
+	<Row ID="354">
+		<Region>Neath</Region>
+		<AreaCode>1639</AreaCode>
+	</Row>
+	<Row ID="355">
+		<Region>Strathy</Region>
+		<AreaCode>1641</AreaCode>
+	</Row>
+	<Row ID="356">
+		<Region>Middlesbrough</Region>
+		<AreaCode>1642</AreaCode>
+	</Row>
+	<Row ID="357">
+		<Region>Minehead</Region>
+		<AreaCode>1643</AreaCode>
+	</Row>
+	<Row ID="358">
+		<Region>New Galloway</Region>
+		<AreaCode>1644</AreaCode>
+	</Row>
+	<Row ID="359">
+		<Region>Milford Haven</Region>
+		<AreaCode>1646</AreaCode>
+	</Row>
+	<Row ID="360">
+		<Region>Moretonhampstead</Region>
+		<AreaCode>1647</AreaCode>
+	</Row>
+	<Row ID="361">
+		<Region>Cemmaes Road</Region>
+		<AreaCode>1650</AreaCode>
+	</Row>
+	<Row ID="362">
+		<Region>Oldmeldrum</Region>
+		<AreaCode>1651</AreaCode>
+	</Row>
+	<Row ID="363">
+		<Region>Brigg</Region>
+		<AreaCode>1652</AreaCode>
+	</Row>
+	<Row ID="364">
+		<Region>Malton</Region>
+		<AreaCode>1653</AreaCode>
+	</Row>
+	<Row ID="365">
+		<Region>Machynlleth</Region>
+		<AreaCode>1654</AreaCode>
+	</Row>
+	<Row ID="366">
+		<Region>Maybole</Region>
+		<AreaCode>1655</AreaCode>
+	</Row>
+	<Row ID="367">
+		<Region>Bridgend</Region>
+		<AreaCode>1656</AreaCode>
+	</Row>
+	<Row ID="368">
+		<Region>Sanquhar</Region>
+		<AreaCode>1659</AreaCode>
+	</Row>
+	<Row ID="369">
+		<Region>Prudhoe</Region>
+		<AreaCode>1661</AreaCode>
+	</Row>
+	<Row ID="370">
+		<Region>New Mills</Region>
+		<AreaCode>1663</AreaCode>
+	</Row>
+	<Row ID="371">
+		<Region>Melton Mowbray</Region>
+		<AreaCode>1664</AreaCode>
+	</Row>
+	<Row ID="372">
+		<Region>Alnwick</Region>
+		<AreaCode>1665</AreaCode>
+	</Row>
+	<Row ID="373">
+		<Region>Malmesbury</Region>
+		<AreaCode>1666</AreaCode>
+	</Row>
+	<Row ID="374">
+		<Region>Nairn</Region>
+		<AreaCode>1667</AreaCode>
+	</Row>
+	<Row ID="375">
+		<Region>Bamburgh</Region>
+		<AreaCode>1668</AreaCode>
+	</Row>
+	<Row ID="376">
+		<Region>Rothbury</Region>
+		<AreaCode>1669</AreaCode>
+	</Row>
+	<Row ID="377">
+		<Region>Morpeth</Region>
+		<AreaCode>1670</AreaCode>
+	</Row>
+	<Row ID="378">
+		<Region>Newton Stewart</Region>
+		<AreaCode>1671</AreaCode>
+	</Row>
+	<Row ID="379">
+		<Region>Marlborough</Region>
+		<AreaCode>1672</AreaCode>
+	</Row>
+	<Row ID="380">
+		<Region>Market Rasen</Region>
+		<AreaCode>1673</AreaCode>
+	</Row>
+	<Row ID="381">
+		<Region>Montrose</Region>
+		<AreaCode>1674</AreaCode>
+	</Row>
+	<Row ID="382">
+		<Region>Coleshill</Region>
+		<AreaCode>1675</AreaCode>
+	</Row>
+	<Row ID="383">
+		<Region>Meriden</Region>
+		<AreaCode>1676</AreaCode>
+	</Row>
+	<Row ID="384">
+		<Region>Bedale</Region>
+		<AreaCode>1677</AreaCode>
+	</Row>
+	<Row ID="385">
+		<Region>Bala</Region>
+		<AreaCode>1678</AreaCode>
+	</Row>
+	<Row ID="386">
+		<Region>Isle of Mull – Craignure</Region>
+		<AreaCode>1680</AreaCode>
+	</Row>
+	<Row ID="387">
+		<Region>Isle of Mull – Fionnphort</Region>
+		<AreaCode>1681</AreaCode>
+	</Row>
+	<Row ID="388">
+		<Region>Moffat</Region>
+		<AreaCode>1683</AreaCode>
+	</Row>
+	<Row ID="389">
+		<Region>Malvern</Region>
+		<AreaCode>1684</AreaCode>
+	</Row>
+	<Row ID="390">
+		<Region>Merthyr Tydfil</Region>
+		<AreaCode>1685</AreaCode>
+	</Row>
+	<Row ID="391">
+		<Region>Llanidloes (2,3,4,7)</Region>
+		<AreaCode>1686</AreaCode>
+	</Row>
+	<Row ID="392">
+		<Region>Newtown (5,6,8,9)</Region>
+		<AreaCode>1686</AreaCode>
+	</Row>
+	<Row ID="393">
+		<Region>Mallaig</Region>
+		<AreaCode>1687</AreaCode>
+	</Row>
+	<Row ID="394">
+		<Region>Isle of Mull – Tobermory</Region>
+		<AreaCode>1688</AreaCode>
+	</Row>
+	<Row ID="395">
+		<Region>Orpington</Region>
+		<AreaCode>1689</AreaCode>
+	</Row>
+	<Row ID="396">
+		<Region>Betws-y-Coed</Region>
+		<AreaCode>1690</AreaCode>
+	</Row>
+	<Row ID="397">
+		<Region>Oswestry</Region>
+		<AreaCode>1691</AreaCode>
+	</Row>
+	<Row ID="398">
+		<Region>North Walsham</Region>
+		<AreaCode>1692</AreaCode>
+	</Row>
+	<Row ID="399">
+		<Region>Church Stretton</Region>
+		<AreaCode>1694</AreaCode>
+	</Row>
+	<Row ID="400">
+		<Region>Skelmersdale</Region>
+		<AreaCode>1695</AreaCode>
+	</Row>
+	<Row ID="401">
+		<Region>Brampton (2,5,6,8,9)</Region>
+		<AreaCode>1697</AreaCode>
+	</Row>
+	<Row ID="402">
+		<Region>Wigton</Region>
+		<AreaCode>16973</AreaCode>
+	</Row>
+	<Row ID="403">
+		<Region>Raughton Head</Region>
+		<AreaCode>16974</AreaCode>
+	</Row>
+	<Row ID="404">
+		<Region>Brampton</Region>
+		<AreaCode>16977</AreaCode>
+	</Row>
+	<Row ID="405">
+		<Region>Motherwell</Region>
+		<AreaCode>1698</AreaCode>
+	</Row>
+	<Row ID="406">
+		<Region>Rothesay</Region>
+		<AreaCode>1700</AreaCode>
+	</Row>
+	<Row ID="407">
+		<Region>Southend-on-Sea</Region>
+		<AreaCode>1702</AreaCode>
+	</Row>
+	<Row ID="408">
+		<Region>Southport</Region>
+		<AreaCode>1704</AreaCode>
+	</Row>
+	<Row ID="409">
+		<Region>Rochdale</Region>
+		<AreaCode>1706</AreaCode>
+	</Row>
+	<Row ID="410">
+		<Region>Welwyn Garden City</Region>
+		<AreaCode>1707</AreaCode>
+	</Row>
+	<Row ID="411">
+		<Region>Romford</Region>
+		<AreaCode>1708</AreaCode>
+	</Row>
+	<Row ID="412">
+		<Region>Rotherham</Region>
+		<AreaCode>1709</AreaCode>
+	</Row>
+	<Row ID="413">
+		<Region>Isles of Scilly</Region>
+		<AreaCode>1720</AreaCode>
+	</Row>
+	<Row ID="414">
+		<Region>Peebles</Region>
+		<AreaCode>1721</AreaCode>
+	</Row>
+	<Row ID="415">
+		<Region>Salisbury</Region>
+		<AreaCode>1722</AreaCode>
+	</Row>
+	<Row ID="416">
+		<Region>Scarborough</Region>
+		<AreaCode>1723</AreaCode>
+	</Row>
+	<Row ID="417">
+		<Region>Scunthorpe</Region>
+		<AreaCode>1724</AreaCode>
+	</Row>
+	<Row ID="418">
+		<Region>Rockbourne</Region>
+		<AreaCode>1725</AreaCode>
+	</Row>
+	<Row ID="419">
+		<Region>St Austell</Region>
+		<AreaCode>1726</AreaCode>
+	</Row>
+	<Row ID="420">
+		<Region>St Albans</Region>
+		<AreaCode>1727</AreaCode>
+	</Row>
+	<Row ID="421">
+		<Region>Saxmundham</Region>
+		<AreaCode>1728</AreaCode>
+	</Row>
+	<Row ID="422">
+		<Region>Settle</Region>
+		<AreaCode>1729</AreaCode>
+	</Row>
+	<Row ID="423">
+		<Region>Petersfield</Region>
+		<AreaCode>1730</AreaCode>
+	</Row>
+	<Row ID="424">
+		<Region>Sevenoaks</Region>
+		<AreaCode>1732</AreaCode>
+	</Row>
+	<Row ID="425">
+		<Region>Peterborough</Region>
+		<AreaCode>1733</AreaCode>
+	</Row>
+	<Row ID="426">
+		<Region>Penzance</Region>
+		<AreaCode>1736</AreaCode>
+	</Row>
+	<Row ID="427">
+		<Region>Redhill</Region>
+		<AreaCode>1737</AreaCode>
+	</Row>
+	<Row ID="428">
+		<Region>Perth</Region>
+		<AreaCode>1738</AreaCode>
+	</Row>
+	<Row ID="429">
+		<Region>Sedgefield</Region>
+		<AreaCode>1740</AreaCode>
+	</Row>
+	<Row ID="430">
+		<Region>Shrewsbury</Region>
+		<AreaCode>1743</AreaCode>
+	</Row>
+	<Row ID="431">
+		<Region>St Helens</Region>
+		<AreaCode>1744</AreaCode>
+	</Row>
+	<Row ID="432">
+		<Region>Rhyl</Region>
+		<AreaCode>1745</AreaCode>
+	</Row>
+	<Row ID="433">
+		<Region>Bridgnorth</Region>
+		<AreaCode>1746</AreaCode>
+	</Row>
+	<Row ID="434">
+		<Region>Shaftesbury</Region>
+		<AreaCode>1747</AreaCode>
+	</Row>
+	<Row ID="435">
+		<Region>Richmond</Region>
+		<AreaCode>1748</AreaCode>
+	</Row>
+	<Row ID="436">
+		<Region>Shepton Mallet</Region>
+		<AreaCode>1749</AreaCode>
+	</Row>
+	<Row ID="437">
+		<Region>Selkirk</Region>
+		<AreaCode>1750</AreaCode>
+	</Row>
+	<Row ID="438">
+		<Region>Pickering</Region>
+		<AreaCode>1751</AreaCode>
+	</Row>
+	<Row ID="439">
+		<Region>Plymouth</Region>
+		<AreaCode>1752</AreaCode>
+	</Row>
+	<Row ID="440">
+		<Region>Slough</Region>
+		<AreaCode>1753</AreaCode>
+	</Row>
+	<Row ID="441">
+		<Region>Skegness</Region>
+		<AreaCode>1754</AreaCode>
+	</Row>
+	<Row ID="442">
+		<Region>Skipton</Region>
+		<AreaCode>1756</AreaCode>
+	</Row>
+	<Row ID="443">
+		<Region>Selby</Region>
+		<AreaCode>1757</AreaCode>
+	</Row>
+	<Row ID="444">
+		<Region>Pwllheli</Region>
+		<AreaCode>1758</AreaCode>
+	</Row>
+	<Row ID="445">
+		<Region>Pocklington</Region>
+		<AreaCode>1759</AreaCode>
+	</Row>
+	<Row ID="446">
+		<Region>Swaffham</Region>
+		<AreaCode>1760</AreaCode>
+	</Row>
+	<Row ID="447">
+		<Region>Temple Cloud</Region>
+		<AreaCode>1761</AreaCode>
+	</Row>
+	<Row ID="448">
+		<Region>Royston</Region>
+		<AreaCode>1763</AreaCode>
+	</Row>
+	<Row ID="449">
+		<Region>Crieff</Region>
+		<AreaCode>1764</AreaCode>
+	</Row>
+	<Row ID="450">
+		<Region>Ripon</Region>
+		<AreaCode>1765</AreaCode>
+	</Row>
+	<Row ID="451">
+		<Region>Porthmadog</Region>
+		<AreaCode>1766</AreaCode>
+	</Row>
+	<Row ID="452">
+		<Region>Sandy</Region>
+		<AreaCode>1767</AreaCode>
+	</Row>
+	<Row ID="453">
+		<Region>Penrith (2,5,6,8,9)</Region>
+		<AreaCode>1768</AreaCode>
+	</Row>
+	<Row ID="454">
+		<Region>Appleby</Region>
+		<AreaCode>17683</AreaCode>
+	</Row>
+	<Row ID="455">
+		<Region>Pooley Bridge</Region>
+		<AreaCode>17684</AreaCode>
+	</Row>
+	<Row ID="456">
+		<Region>Keswick</Region>
+		<AreaCode>17687</AreaCode>
+	</Row>
+	<Row ID="457">
+		<Region>South Molton</Region>
+		<AreaCode>1769</AreaCode>
+	</Row>
+	<Row ID="458">
+		<Region>Isle of Arran</Region>
+		<AreaCode>1770</AreaCode>
+	</Row>
+	<Row ID="459">
+		<Region>Maud</Region>
+		<AreaCode>1771</AreaCode>
+	</Row>
+	<Row ID="460">
+		<Region>Preston</Region>
+		<AreaCode>1772</AreaCode>
+	</Row>
+	<Row ID="461">
+		<Region>Ripley</Region>
+		<AreaCode>1773</AreaCode>
+	</Row>
+	<Row ID="462">
+		<Region>Spalding</Region>
+		<AreaCode>1775</AreaCode>
+	</Row>
+	<Row ID="463">
+		<Region>Stranraer</Region>
+		<AreaCode>1776</AreaCode>
+	</Row>
+	<Row ID="464">
+		<Region>Retford</Region>
+		<AreaCode>1777</AreaCode>
+	</Row>
+	<Row ID="465">
+		<Region>Bourne</Region>
+		<AreaCode>1778</AreaCode>
+	</Row>
+	<Row ID="466">
+		<Region>Peterhead</Region>
+		<AreaCode>1779</AreaCode>
+	</Row>
+	<Row ID="467">
+		<Region>Stamford</Region>
+		<AreaCode>1780</AreaCode>
+	</Row>
+	<Row ID="468">
+		<Region>Stoke-on-Trent</Region>
+		<AreaCode>1782</AreaCode>
+	</Row>
+	<Row ID="469">
+		<Region>Staines</Region>
+		<AreaCode>1784</AreaCode>
+	</Row>
+	<Row ID="470">
+		<Region>Stafford</Region>
+		<AreaCode>1785</AreaCode>
+	</Row>
+	<Row ID="471">
+		<Region>Stirling</Region>
+		<AreaCode>1786</AreaCode>
+	</Row>
+	<Row ID="472">
+		<Region>Sudbury</Region>
+		<AreaCode>1787</AreaCode>
+	</Row>
+	<Row ID="473">
+		<Region>Rugby</Region>
+		<AreaCode>1788</AreaCode>
+	</Row>
+	<Row ID="474">
+		<Region>Stratford-upon-Avon</Region>
+		<AreaCode>1789</AreaCode>
+	</Row>
+	<Row ID="475">
+		<Region>Spilsby</Region>
+		<AreaCode>1790</AreaCode>
+	</Row>
+	<Row ID="476">
+		<Region>Swansea</Region>
+		<AreaCode>1792</AreaCode>
+	</Row>
+	<Row ID="477">
+		<Region>Swindon</Region>
+		<AreaCode>1793</AreaCode>
+	</Row>
+	<Row ID="478">
+		<Region>Romsey</Region>
+		<AreaCode>1794</AreaCode>
+	</Row>
+	<Row ID="479">
+		<Region>Sittingbourne</Region>
+		<AreaCode>1795</AreaCode>
+	</Row>
+	<Row ID="480">
+		<Region>Pitlochry</Region>
+		<AreaCode>1796</AreaCode>
+	</Row>
+	<Row ID="481">
+		<Region>Rye</Region>
+		<AreaCode>1797</AreaCode>
+	</Row>
+	<Row ID="482">
+		<Region>Pulborough</Region>
+		<AreaCode>1798</AreaCode>
+	</Row>
+	<Row ID="483">
+		<Region>Saffron Walden</Region>
+		<AreaCode>1799</AreaCode>
+	</Row>
+	<Row ID="484">
+		<Region>Torquay</Region>
+		<AreaCode>1803</AreaCode>
+	</Row>
+	<Row ID="485">
+		<Region>Torrington</Region>
+		<AreaCode>1805</AreaCode>
+	</Row>
+	<Row ID="486">
+		<Region>Shetland</Region>
+		<AreaCode>1806</AreaCode>
+	</Row>
+	<Row ID="487">
+		<Region>Ballindalloch</Region>
+		<AreaCode>1807</AreaCode>
+	</Row>
+	<Row ID="488">
+		<Region>Tomatin</Region>
+		<AreaCode>1808</AreaCode>
+	</Row>
+	<Row ID="489">
+		<Region>Tomdoun</Region>
+		<AreaCode>1809</AreaCode>
+	</Row>
+	<Row ID="490">
+		<Region>Kinrossie</Region>
+		<AreaCode>1821</AreaCode>
+	</Row>
+	<Row ID="491">
+		<Region>Tavistock</Region>
+		<AreaCode>1822</AreaCode>
+	</Row>
+	<Row ID="492">
+		<Region>Taunton</Region>
+		<AreaCode>1823</AreaCode>
+	</Row>
+	<Row ID="493">
+		<Region>Ruthin</Region>
+		<AreaCode>1824</AreaCode>
+	</Row>
+	<Row ID="494">
+		<Region>Uckfield</Region>
+		<AreaCode>1825</AreaCode>
+	</Row>
+	<Row ID="495">
+		<Region>Tamworth</Region>
+		<AreaCode>1827</AreaCode>
+	</Row>
+	<Row ID="496">
+		<Region>Coupar Angus</Region>
+		<AreaCode>1828</AreaCode>
+	</Row>
+	<Row ID="497">
+		<Region>Tarporley</Region>
+		<AreaCode>1829</AreaCode>
+	</Row>
+	<Row ID="498">
+		<Region>Kirkwhelpington</Region>
+		<AreaCode>1830</AreaCode>
+	</Row>
+	<Row ID="499">
+		<Region>Clopton</Region>
+		<AreaCode>1832</AreaCode>
+	</Row>
+	<Row ID="500">
+		<Region>Barnard Castle</Region>
+		<AreaCode>1833</AreaCode>
+	</Row>
+	<Row ID="501">
+		<Region>Narberth</Region>
+		<AreaCode>1834</AreaCode>
+	</Row>
+	<Row ID="502">
+		<Region>St Boswells</Region>
+		<AreaCode>1835</AreaCode>
+	</Row>
+	<Row ID="503">
+		<Region>Okehampton</Region>
+		<AreaCode>1837</AreaCode>
+	</Row>
+	<Row ID="504">
+		<Region>Dalmally</Region>
+		<AreaCode>1838</AreaCode>
+	</Row>
+	<Row ID="505">
+		<Region>Camelford</Region>
+		<AreaCode>1840</AreaCode>
+	</Row>
+	<Row ID="506">
+		<Region>Newquay (Padstow)</Region>
+		<AreaCode>1841</AreaCode>
+	</Row>
+	<Row ID="507">
+		<Region>Thetford</Region>
+		<AreaCode>1842</AreaCode>
+	</Row>
+	<Row ID="508">
+		<Region>Thanet</Region>
+		<AreaCode>1843</AreaCode>
+	</Row>
+	<Row ID="509">
+		<Region>Thame</Region>
+		<AreaCode>1844</AreaCode>
+	</Row>
+	<Row ID="510">
+		<Region>Thirsk</Region>
+		<AreaCode>1845</AreaCode>
+	</Row>
+	<Row ID="511">
+		<Region>Thurso (2,3,4,5,8)</Region>
+		<AreaCode>1847</AreaCode>
+	</Row>
+	<Row ID="512">
+		<Region>Tongue (6,7,9)</Region>
+		<AreaCode>1847</AreaCode>
+	</Row>
+	<Row ID="513">
+		<Region>Thornhill</Region>
+		<AreaCode>1848</AreaCode>
+	</Row>
+	<Row ID="514">
+		<Region>Great Bernera (4,6,9)</Region>
+		<AreaCode>1851</AreaCode>
+	</Row>
+	<Row ID="515">
+		<Region>Stornoway (2,3,5,7,8)</Region>
+		<AreaCode>1851</AreaCode>
+	</Row>
+	<Row ID="516">
+		<Region>Kilmelford</Region>
+		<AreaCode>1852</AreaCode>
+	</Row>
+	<Row ID="517">
+		<Region>Ullapool</Region>
+		<AreaCode>1854</AreaCode>
+	</Row>
+	<Row ID="518">
+		<Region>Ballachulish</Region>
+		<AreaCode>1855</AreaCode>
+	</Row>
+	<Row ID="519">
+		<Region>Orkney</Region>
+		<AreaCode>1856</AreaCode>
+	</Row>
+	<Row ID="520">
+		<Region>Sanday</Region>
+		<AreaCode>1857</AreaCode>
+	</Row>
+	<Row ID="521">
+		<Region>Market Harborough</Region>
+		<AreaCode>1858</AreaCode>
+	</Row>
+	<Row ID="522">
+		<Region>Harris</Region>
+		<AreaCode>1859</AreaCode>
+	</Row>
+	<Row ID="523">
+		<Region>Tain</Region>
+		<AreaCode>1862</AreaCode>
+	</Row>
+	<Row ID="524">
+		<Region>Ardgay</Region>
+		<AreaCode>1863</AreaCode>
+	</Row>
+	<Row ID="525">
+		<Region>Abington (Crawford)</Region>
+		<AreaCode>1864</AreaCode>
+	</Row>
+	<Row ID="526">
+		<Region>Oxford</Region>
+		<AreaCode>1865</AreaCode>
+	</Row>
+	<Row ID="527">
+		<Region>Kilchrenan</Region>
+		<AreaCode>1866</AreaCode>
+	</Row>
+	<Row ID="528">
+		<Region>Bicester</Region>
+		<AreaCode>1869</AreaCode>
+	</Row>
+	<Row ID="529">
+		<Region>Isle of Benbecula</Region>
+		<AreaCode>1870</AreaCode>
+	</Row>
+	<Row ID="530">
+		<Region>Castlebay</Region>
+		<AreaCode>1871</AreaCode>
+	</Row>
+	<Row ID="531">
+		<Region>Truro</Region>
+		<AreaCode>1872</AreaCode>
+	</Row>
+	<Row ID="532">
+		<Region>Abergavenny</Region>
+		<AreaCode>1873</AreaCode>
+	</Row>
+	<Row ID="533">
+		<Region>Brecon</Region>
+		<AreaCode>1874</AreaCode>
+	</Row>
+	<Row ID="534">
+		<Region>Tranent</Region>
+		<AreaCode>1875</AreaCode>
+	</Row>
+	<Row ID="535">
+		<Region>Lochmaddy</Region>
+		<AreaCode>1876</AreaCode>
+	</Row>
+	<Row ID="536">
+		<Region>Callander</Region>
+		<AreaCode>1877</AreaCode>
+	</Row>
+	<Row ID="537">
+		<Region>Lochboisdale</Region>
+		<AreaCode>1878</AreaCode>
+	</Row>
+	<Row ID="538">
+		<Region>Scarinish</Region>
+		<AreaCode>1879</AreaCode>
+	</Row>
+	<Row ID="539">
+		<Region>Tarbert</Region>
+		<AreaCode>1880</AreaCode>
+	</Row>
+	<Row ID="540">
+		<Region>Kinloch Rannoch</Region>
+		<AreaCode>1882</AreaCode>
+	</Row>
+	<Row ID="541">
+		<Region>Caterham</Region>
+		<AreaCode>1883</AreaCode>
+	</Row>
+	<Row ID="542">
+		<Region>Tiverton</Region>
+		<AreaCode>1884</AreaCode>
+	</Row>
+	<Row ID="543">
+		<Region>Pencombe</Region>
+		<AreaCode>1885</AreaCode>
+	</Row>
+	<Row ID="544">
+		<Region>Bromyard (Knightwick/Leigh Sinton)</Region>
+		<AreaCode>1886</AreaCode>
+	</Row>
+	<Row ID="545">
+		<Region>Aberfeldy</Region>
+		<AreaCode>1887</AreaCode>
+	</Row>
+	<Row ID="546">
+		<Region>Turriff</Region>
+		<AreaCode>1888</AreaCode>
+	</Row>
+	<Row ID="547">
+		<Region>Rugeley</Region>
+		<AreaCode>1889</AreaCode>
+	</Row>
+	<Row ID="548">
+		<Region>Ayton (5,6,7,9)</Region>
+		<AreaCode>1890</AreaCode>
+	</Row>
+	<Row ID="549">
+		<Region>Coldstream (2,3,4,8)</Region>
+		<AreaCode>1890</AreaCode>
+	</Row>
+	<Row ID="550">
+		<Region>Tunbridge Wells</Region>
+		<AreaCode>1892</AreaCode>
+	</Row>
+	<Row ID="551">
+		<Region>Uxbridge</Region>
+		<AreaCode>1895</AreaCode>
+	</Row>
+	<Row ID="552">
+		<Region>Galashiels</Region>
+		<AreaCode>1896</AreaCode>
+	</Row>
+	<Row ID="553">
+		<Region>Biggar</Region>
+		<AreaCode>1899</AreaCode>
+	</Row>
+	<Row ID="554">
+		<Region>Workington</Region>
+		<AreaCode>1900</AreaCode>
+	</Row>
+	<Row ID="555">
+		<Region>Wolverhampton</Region>
+		<AreaCode>1902</AreaCode>
+	</Row>
+	<Row ID="556">
+		<Region>Worthing</Region>
+		<AreaCode>1903</AreaCode>
+	</Row>
+	<Row ID="557">
+		<Region>York</Region>
+		<AreaCode>1904</AreaCode>
+	</Row>
+	<Row ID="558">
+		<Region>Worcester</Region>
+		<AreaCode>1905</AreaCode>
+	</Row>
+	<Row ID="559">
+		<Region>Milton Keynes</Region>
+		<AreaCode>1908</AreaCode>
+	</Row>
+	<Row ID="560">
+		<Region>Worksop</Region>
+		<AreaCode>1909</AreaCode>
+	</Row>
+	<Row ID="561">
+		<Region>Tyneside (2,4,6,8)</Region>
+		<AreaCode>191</AreaCode>
+	</Row>
+	<Row ID="562">
+		<Region>Durham (3,9)</Region>
+		<AreaCode>191</AreaCode>
+	</Row>
+	<Row ID="563">
+		<Region>Sunderland (5,7)</Region>
+		<AreaCode>191</AreaCode>
+	</Row>
+	<Row ID="564">
+		<Region>Ware</Region>
+		<AreaCode>1920</AreaCode>
+	</Row>
+	<Row ID="565">
+		<Region>Walsall</Region>
+		<AreaCode>1922</AreaCode>
+	</Row>
+	<Row ID="566">
+		<Region>Watford</Region>
+		<AreaCode>1923</AreaCode>
+	</Row>
+	<Row ID="567">
+		<Region>Wakefield</Region>
+		<AreaCode>1924</AreaCode>
+	</Row>
+	<Row ID="568">
+		<Region>Warrington</Region>
+		<AreaCode>1925</AreaCode>
+	</Row>
+	<Row ID="569">
+		<Region>Warwick</Region>
+		<AreaCode>1926</AreaCode>
+	</Row>
+	<Row ID="570">
+		<Region>Runcorn</Region>
+		<AreaCode>1928</AreaCode>
+	</Row>
+	<Row ID="571">
+		<Region>Wareham</Region>
+		<AreaCode>1929</AreaCode>
+	</Row>
+	<Row ID="572">
+		<Region>Shap</Region>
+		<AreaCode>1931</AreaCode>
+	</Row>
+	<Row ID="573">
+		<Region>Weybridge</Region>
+		<AreaCode>1932</AreaCode>
+	</Row>
+	<Row ID="574">
+		<Region>Wellingborough</Region>
+		<AreaCode>1933</AreaCode>
+	</Row>
+	<Row ID="575">
+		<Region>Weston-super-Mare</Region>
+		<AreaCode>1934</AreaCode>
+	</Row>
+	<Row ID="576">
+		<Region>Yeovil</Region>
+		<AreaCode>1935</AreaCode>
+	</Row>
+	<Row ID="577">
+		<Region>Wetherby</Region>
+		<AreaCode>1937</AreaCode>
+	</Row>
+	<Row ID="578">
+		<Region>Welshpool</Region>
+		<AreaCode>1938</AreaCode>
+	</Row>
+	<Row ID="579">
+		<Region>Wem</Region>
+		<AreaCode>1939</AreaCode>
+	</Row>
+	<Row ID="580">
+		<Region>Wigan</Region>
+		<AreaCode>1942</AreaCode>
+	</Row>
+	<Row ID="581">
+		<Region>Guiseley</Region>
+		<AreaCode>1943</AreaCode>
+	</Row>
+	<Row ID="582">
+		<Region>West Heslerton</Region>
+		<AreaCode>1944</AreaCode>
+	</Row>
+	<Row ID="583">
+		<Region>Wisbech</Region>
+		<AreaCode>1945</AreaCode>
+	</Row>
+	<Row ID="584">
+		<Region>Whitehaven (2,3,4,5,6,8,9)</Region>
+		<AreaCode>1946</AreaCode>
+	</Row>
+	<Row ID="585">
+		<Region>Gosforth</Region>
+		<AreaCode>19467</AreaCode>
+	</Row>
+	<Row ID="586">
+		<Region>Whitby</Region>
+		<AreaCode>1947</AreaCode>
+	</Row>
+	<Row ID="587">
+		<Region>Whitchurch</Region>
+		<AreaCode>1948</AreaCode>
+	</Row>
+	<Row ID="588">
+		<Region>Whatton</Region>
+		<AreaCode>1949</AreaCode>
+	</Row>
+	<Row ID="589">
+		<Region>Sandwick</Region>
+		<AreaCode>1950</AreaCode>
+	</Row>
+	<Row ID="590">
+		<Region>Colonsay</Region>
+		<AreaCode>1951</AreaCode>
+	</Row>
+	<Row ID="591">
+		<Region>Telford</Region>
+		<AreaCode>1952</AreaCode>
+	</Row>
+	<Row ID="592">
+		<Region>Wymondham</Region>
+		<AreaCode>1953</AreaCode>
+	</Row>
+	<Row ID="593">
+		<Region>Madingley</Region>
+		<AreaCode>1954</AreaCode>
+	</Row>
+	<Row ID="594">
+		<Region>Wick</Region>
+		<AreaCode>1955</AreaCode>
+	</Row>
+	<Row ID="595">
+		<Region>Mid Yell</Region>
+		<AreaCode>1957</AreaCode>
+	</Row>
+	<Row ID="596">
+		<Region>Westerham</Region>
+		<AreaCode>1959</AreaCode>
+	</Row>
+	<Row ID="597">
+		<Region>Winchester</Region>
+		<AreaCode>1962</AreaCode>
+	</Row>
+	<Row ID="598">
+		<Region>Wincanton</Region>
+		<AreaCode>1963</AreaCode>
+	</Row>
+	<Row ID="599">
+		<Region>Hornsea (2,5,8,9)</Region>
+		<AreaCode>1964</AreaCode>
+	</Row>
+	<Row ID="600">
+		<Region>Patrington (3,4,6,7)</Region>
+		<AreaCode>1964</AreaCode>
+	</Row>
+	<Row ID="601">
+		<Region>Strontian</Region>
+		<AreaCode>1967</AreaCode>
+	</Row>
+	<Row ID="602">
+		<Region>Penicuik</Region>
+		<AreaCode>1968</AreaCode>
+	</Row>
+	<Row ID="603">
+		<Region>Leyburn</Region>
+		<AreaCode>1969</AreaCode>
+	</Row>
+	<Row ID="604">
+		<Region>Aberystwyth</Region>
+		<AreaCode>1970</AreaCode>
+	</Row>
+	<Row ID="605">
+		<Region>Scourie</Region>
+		<AreaCode>1971</AreaCode>
+	</Row>
+	<Row ID="606">
+		<Region>Glenborrodale</Region>
+		<AreaCode>1972</AreaCode>
+	</Row>
+	<Row ID="607">
+		<Region>Llanon</Region>
+		<AreaCode>1974</AreaCode>
+	</Row>
+	<Row ID="608">
+		<Region>Alford (Aberdeen) (2,4,5,9)</Region>
+		<AreaCode>1975</AreaCode>
+	</Row>
+	<Row ID="609">
+		<Region>Strathdon (3,6,7,8)</Region>
+		<AreaCode>1975</AreaCode>
+	</Row>
+	<Row ID="610">
+		<Region>Pontefract</Region>
+		<AreaCode>1977</AreaCode>
+	</Row>
+	<Row ID="611">
+		<Region>Wrexham</Region>
+		<AreaCode>1978</AreaCode>
+	</Row>
+	<Row ID="612">
+		<Region>Amesbury</Region>
+		<AreaCode>1980</AreaCode>
+	</Row>
+	<Row ID="613">
+		<Region>Wormbridge</Region>
+		<AreaCode>1981</AreaCode>
+	</Row>
+	<Row ID="614">
+		<Region>Builth Wells</Region>
+		<AreaCode>1982</AreaCode>
+	</Row>
+	<Row ID="615">
+		<Region>Isle of Wight</Region>
+		<AreaCode>1983</AreaCode>
+	</Row>
+	<Row ID="616">
+		<Region>Watchet (Williton)</Region>
+		<AreaCode>1984</AreaCode>
+	</Row>
+	<Row ID="617">
+		<Region>Warminster</Region>
+		<AreaCode>1985</AreaCode>
+	</Row>
+	<Row ID="618">
+		<Region>Bungay</Region>
+		<AreaCode>1986</AreaCode>
+	</Row>
+	<Row ID="619">
+		<Region>Ebbsfleet</Region>
+		<AreaCode>1987</AreaCode>
+	</Row>
+	<Row ID="620">
+		<Region>Wigtown</Region>
+		<AreaCode>1988</AreaCode>
+	</Row>
+	<Row ID="621">
+		<Region>Ross-on-Wye</Region>
+		<AreaCode>1989</AreaCode>
+	</Row>
+	<Row ID="622">
+		<Region>Lea Valley</Region>
+		<AreaCode>1992</AreaCode>
+	</Row>
+	<Row ID="623">
+		<Region>Witney</Region>
+		<AreaCode>1993</AreaCode>
+	</Row>
+	<Row ID="624">
+		<Region>St Clears</Region>
+		<AreaCode>1994</AreaCode>
+	</Row>
+	<Row ID="625">
+		<Region>Garstang</Region>
+		<AreaCode>1995</AreaCode>
+	</Row>
+	<Row ID="626">
+		<Region>Strathpeffer</Region>
+		<AreaCode>1997</AreaCode>
+	</Row>
+	<Row ID="627">
+		<Region>London (3,7,8)</Region>
+		<AreaCode>20</AreaCode>
+	</Row>
+	<Row ID="628">
+		<Region>Southampton (8)</Region>
+		<AreaCode>23</AreaCode>
+	</Row>
+	<Row ID="629">
+		<Region>Portsmouth (9)</Region>
+		<AreaCode>23</AreaCode>
+	</Row>
+	<Row ID="630">
+		<Region>Coventry (7)</Region>
+		<AreaCode>24</AreaCode>
+	</Row>
+	<Row ID="631">
+		<Region>Northern Ireland (2,3,4,6,7,8,9)</Region>
+		<AreaCode>28</AreaCode>
+	</Row>
+	<Row ID="632">
+		<Region>Cardiff (2)</Region>
+		<AreaCode>29</AreaCode>
+	</Row>
+</Root>
